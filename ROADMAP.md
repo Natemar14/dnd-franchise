@@ -1,4 +1,4 @@
-# ROADMAP — Cloud‑First Franchise Brain v2 (with Event Arcs, Budget Guardian, Fallback Episodes)
+# ROADMAP — Cloud‑First Franchise Brain (with Event Arcs, Budget Guardian, Fallback Episodes)
 
 **Goal:** Build a fully automated, cloud‑first studio that produces interactive D&D Shorts with a BG3‑inspired (but original) companion app, plus midform and longform recaps — optimized for organic growth, safety, and hard monthly budget caps. Includes Event Arc engine, Budget Guardian Agent, and graceful Fallback Episode Generator.
 
@@ -525,4 +525,5 @@ Each step is shippable. After finishing, deploy to cloud, verify, then proceed.
 ## 20) What “Done” Looks Like
 
 - You press **Schedule** → Budget Guardian selects a plan → episode renders in cloud → uploads with A/B → companion app updates → ledger shows spend & forecast → if outage/budget shortfall, you get a graceful fallback once, then normal cadence resumes — all without touching your old PC beyond clicking **Approve**.
+
 
